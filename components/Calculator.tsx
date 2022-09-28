@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react';
 import Button from './Button';
-import Input from './Input';
 
 interface Input {
     first: number;
